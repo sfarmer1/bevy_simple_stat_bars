@@ -62,6 +62,7 @@ fn extract_status_bars(
                         image_handle_id: DEFAULT_IMAGE_HANDLE.into(),
                         flip_x: false,
                         flip_y: false,
+                        anchor: Default::default()
                     }
                 );
             }
@@ -76,6 +77,7 @@ fn extract_status_bars(
                         image_handle_id: DEFAULT_IMAGE_HANDLE.into(),
                         flip_x: false,
                         flip_y: false,
+                        anchor: Default::default()
                     }
                 );
             }
@@ -98,6 +100,7 @@ fn extract_status_bars(
                         image_handle_id: DEFAULT_IMAGE_HANDLE.into(),
                         flip_x: false,
                         flip_y: false,
+                        anchor: Default::default()
                     }
                 );
             }
